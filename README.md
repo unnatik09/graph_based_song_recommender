@@ -19,3 +19,4 @@ This repository implements a “This-or-That → Personalized Recommendation” 
 
 ---
 
+![image](https://github.com/user-attachments/assets/ad2ab897-8bce-47a0-abf1-1a879b31b44c)
